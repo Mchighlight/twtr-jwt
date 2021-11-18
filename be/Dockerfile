@@ -13,4 +13,5 @@ USER myuser
 
 # run gunicorn with 3 threads listening on port 5000.
 EXPOSE 5000
+#CMD ["twtr.py"]
 CMD gunicorn --threads=3 --bind 0.0.0.0:5000 wsgi:app
