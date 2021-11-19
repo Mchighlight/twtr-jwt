@@ -1,1 +1,1 @@
-# Hung Chih Huang's Midterm Project - Twitter Container Application
+# Hung Chih Huang's  CSYE7220 Midterm Project - Twitter Container Application
